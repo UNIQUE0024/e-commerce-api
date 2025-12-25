@@ -1,0 +1,67 @@
+4.0.0
+    
+    
+        org.springframework.boot
+        spring-boot-starter-parent
+        3.2.0
+        
+    
+    
+    com.company
+    ecommerce-api
+    1.0.0
+    Ecommerce API
+    Ecommerce REST API with Spring Boot
+    
+    
+        17
+    
+    
+    
+        
+        
+            org.springframework.boot
+            spring-boot-starter-web
+        
+        
+        
+        
+            org.springframework.boot
+            spring-boot-starter-data-jpa
+        
+        
+        
+        
+            com.mysql
+            mysql-connector-j
+            runtime
+        
+        
+        
+        
+            org.projectlombok
+            lombok
+            true
+        
+        
+        
+        
+            org.springframework.boot
+            spring-boot-starter-test
+            test
+        
+    
+    
+    
+        
+            
+                org.springframework.boot
+                spring-boot-maven-plugin
+            
+            
+            
+                org.apache.maven.plugins
+                maven-surefire-plugin
+                3.0.0
+            
+        
